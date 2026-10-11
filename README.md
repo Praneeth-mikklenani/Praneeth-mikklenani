@@ -59,12 +59,6 @@ Currently looking for:
 
 ---
 
-# 📈 Contribution Graph
-
-[![Prajwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneeth-mikklenani&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -110,13 +104,13 @@ I'm interested in collaborating on:
 
 # 📫 Contact Me
 
-📧 Email:
+📧 Email: praneethmikklenani588@gmail.com
 
 🌐 Portfolio:
 
-💼 LinkedIn:
+💼 LinkedIn: https://www.linkedin.com/in/praneeth-m-272ba8425
 
-🐙 GitHub:
+🐙 GitHub: https://github.com/Praneeth-mikklenani
 
 ---
 
