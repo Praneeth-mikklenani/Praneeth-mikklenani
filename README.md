@@ -69,7 +69,7 @@ Currently looking for:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prajwal12smp-cpu&theme=tokyonight&row=1&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Praneeth-mikklenani&theme=tokyonight&row=1&no-frame=true"/>
 
 </p>
 
@@ -79,7 +79,7 @@ Currently looking for:
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal12smp-cpu&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praneeth-mikklenani&theme=tokyonight"/>
 
 </p>
 
@@ -95,7 +95,7 @@ Currently looking for:
 
 ---
 
-# 🤝 Open to Collaborate
+# 🤝 Open to Collaboration
 
 I'm interested in collaborating on:
 
