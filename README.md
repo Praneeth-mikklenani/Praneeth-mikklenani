@@ -9,7 +9,7 @@ Final-Year Computer Science (AI & ML) Student | AI Developer | Backend Developer
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/prajwal-shivashimpar-284162205?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/praneeth-m-272ba8425">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
