@@ -61,7 +61,7 @@ Currently looking for:
 
 # 📈 Contribution Graph
 
-[![Prajwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal12smp-cpu&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Prajwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneeth-mikklenani&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
